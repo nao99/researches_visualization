@@ -1,0 +1,12 @@
+1. meshgrid - creates a list of grid arrays
+2. mesh - creates a mesh plot, which is a 3D surface
+3. surf - creates a 3D surface plot, which is a 3D surface
+4. shading flat - controls the color shading of surface and patch graphics objects
+5. shading interp varies the color in each line segment and face by interpolating the colormap index
+6. colorbar - showing color scalecollapse
+7. surfc - contour plot under surface plotcollapse
+8. contour3 - 3D contour plot
+9. contour - contour plot of matrixcollapse
+10. clabel - label contour plot elevationcollapse
+11. contourf - filled 2D contour plot
+12. colormap - view and set current colormapcollapse
